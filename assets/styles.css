@@ -1,0 +1,15 @@
+.preview-scheduled-posts a:before {
+    content: "\f115" !important;
+}
+
+.home-scheduled-message {
+  background-color: yellow;
+  bottom: 0;
+  font-weight: bold;
+  opacity: .9;
+  padding: 15px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 999;
+}
